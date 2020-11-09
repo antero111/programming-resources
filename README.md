@@ -3,7 +3,7 @@
 *List of free coding resources .
 All credits go to the original authors.*
 
-Check [this](https://github.com/jwasham/coding-interview-university) for full a programming study plan.
+Check [this](https://github.com/jwasham/coding-interview-university) for a full programming study plan.
 
 ---
 - **Getting started with programming**
