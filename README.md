@@ -3,20 +3,18 @@
 *A list of free coding resources .
 All credits go to the original authors.*
 
-Resources mostly aimed for cs, web, ai and data science.  
+Resources mostly aimed for cs, web, ai and data science beginners.  
 
 ---
-- **Getting started with programming**
+- **Computer programming**
 	 - [cs50](https://cs50.harvard.edu/x/2020/)
 	 - [C# Yellow book](http://www.csharpcourse.com/)
 	 - [mooc 2020](https://ohjelmointi-20.mooc.fi/) (fin)
-	 - [Practical introduction to Python book](https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf)
 	 - [Solo learn](https://www.sololearn.com/)
-- **More advanced resources**
-	 - [Learn X in Y minutes](https://learnxinyminutes.com/)
+	 - [Practical introduction to Python book](https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf)
+	 - [Real python tutorials](https://realpython.com/)
 	 - [The Hitchhiker’s Guide to python](https://docs.python-guide.org/)
 	 - [Uncle bob's clean code lessons](https://www.youtube.com/watch?v=7EmboKQH8lM&ab_channel=UnityCoin)
-	 - [Python principles](https://pythonprinciples.com/)
 - **Computer science and algorithms**
 	 - [Crash course computer science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 	 - [How to think like computer scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
@@ -27,7 +25,7 @@ Resources mostly aimed for cs, web, ai and data science.
 	 - [Internet is hard](https://www.internetingishard.com/)
 	 - [The Odin project](https://theodinproject.com/paths)
 	 - [cs50web](https://cs50.harvard.edu/web/2020/)
-- **Full stack**
+- **Full stack development**
 	 - [Full stack python](https://www.fullstackpython.com/)
 	 - [Full stack open](https://fullstackopen.com/)
 	 - [App academy](https://open.appacademy.io/)
@@ -43,16 +41,18 @@ Resources mostly aimed for cs, web, ai and data science.
 	 - [Hackerrank](https://www.hackerrank.com/dashboard)
 	 - [Cp algorithms](http://cp-algorithms.com/)
 	 - [Cses problemsets](https://cses.fi/problemset/)
-	 - [Datatähti](https://cses.fi/dt/list/) (fin)
 	 - [Project Euler](https://projecteuler.net/about)
 	 - [Code wars](https://www.codewars.com/)
-- **Cheat sheets and other resources**
-	 - [Makereadme](https://www.makeareadme.com/)
+	 - [Datatähti](https://cses.fi/dt/list/) (fin)
+- **General coding**
+	 - [Uncle bob's clean code lessons](https://www.youtube.com/watch?v=7EmboKQH8lM&ab_channel=UnityCoin)
+- **Other Coding related resources**
+	 - [Makeareadme](https://www.makeareadme.com/)
+	 - [Choose a lisence](https://choosealicense.com/)
 	 - [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-	 - [Vscode shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 	 - [Rosetta code](http://rosettacode.org/wiki/Rosetta_Code)
 	 - [Git book](https://git-scm.com/book/en/v2)
-	 - [Choose a lisence](https://choosealicense.com/)
+	 - [Learn X in Y minutes](https://learnxinyminutes.com/)
 	 - [Dashdash](https://dashdash.io/)
 	 - [100ProjectsOfCode](https://github.com/aceking007/100ProjectsOfCode)
 - **Youtubers**
