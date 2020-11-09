@@ -44,8 +44,6 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 	 - [Project Euler](https://projecteuler.net/about)
 	 - [Code wars](https://www.codewars.com/)
 	 - [Datatähti](https://cses.fi/dt/list/) (fin)
-- **General coding**
-	 - [Uncle bob's clean code lessons](https://www.youtube.com/watch?v=7EmboKQH8lM&ab_channel=UnityCoin)
 - **Other Coding related resources**
 	 - [Makeareadme](https://www.makeareadme.com/)
 	 - [Choose a lisence](https://choosealicense.com/)
