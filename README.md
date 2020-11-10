@@ -48,9 +48,9 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 	 - [Makeareadme](https://www.makeareadme.com/)
 	 - [Choose a license](https://choosealicense.com/)
 	 - [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-	 - [Rosetta code](http://rosettacode.org/wiki/Rosetta_Code)
 	 - [Git book](https://git-scm.com/book/en/v2)
 	 - [Learn X in Y minutes](https://learnxinyminutes.com/)
+	 - [Rosetta code](http://rosettacode.org/wiki/Rosetta_Code)
 	 - [Dashdash](https://dashdash.io/)
 	 - [100ProjectsOfCode](https://github.com/aceking007/100ProjectsOfCode)
 - **Youtubers**
