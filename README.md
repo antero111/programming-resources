@@ -46,7 +46,7 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 	 - [Datatähti](https://cses.fi/dt/list/) (fin)
 - **Other Coding related resources**
 	 - [Makeareadme](https://www.makeareadme.com/)
-	 - [Choose a lisence](https://choosealicense.com/)
+	 - [Choose a license](https://choosealicense.com/)
 	 - [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 	 - [Rosetta code](http://rosettacode.org/wiki/Rosetta_Code)
 	 - [Git book](https://git-scm.com/book/en/v2)
