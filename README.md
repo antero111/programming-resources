@@ -18,10 +18,10 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 - **Computer science and algorithms**
 	 - [Crash course computer science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 	 - [How to think like computer scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
-	 - [Tirakirja](https://www.cs.helsinki.fi/u/ahslaaks/tirakirja/) (fin)
-	 - [Cses course](https://cses.fi/alon20/list/) (fin)
+	 - [Tietorakenteet ja algoritmit](https://www.cs.helsinki.fi/u/ahslaaks/tirakirja/) (fin)
+	 - [Cses algorithm course](https://cses.fi/alon20/list/) (fin)
 - **Web developement**
-	 - [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+	 - [Mozilla web docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 	 - [Internet is hard](https://www.internetingishard.com/)
 	 - [The Odin project](https://theodinproject.com/paths)
 	 - [cs50web](https://cs50.harvard.edu/web/2020/)
