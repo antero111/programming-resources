@@ -47,7 +47,7 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 	 - [Code wars](https://www.codewars.com/)
 	 - [Datatähti](https://cses.fi/dt/list/) (fin)
 	 - [edabit](https://edabit.com/)
-- **Other Coding related resources**
+- **Other coding related resources**
 	 - [Makeareadme](https://www.makeareadme.com/)
 	 - [Choose a license](https://choosealicense.com/)
 	 - [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
