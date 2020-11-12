@@ -21,10 +21,12 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 	 - [Tietorakenteet ja algoritmit](https://www.cs.helsinki.fi/u/ahslaaks/tirakirja/) (fin)
 	 - [Cses algorithm course](https://cses.fi/alon20/list/) (fin)
 - **Web developement**
+	 - [Web demystified](https://www.youtube.com/playlist?list=PLo3w8EB99pqLEopnunz-dOOBJ8t-Wgt2g)
 	 - [Mozilla web docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 	 - [Internet is hard](https://www.internetingishard.com/)
 	 - [The Odin project](https://theodinproject.com/paths)
 	 - [cs50web](https://cs50.harvard.edu/web/2020/)
+	 - [learn js](https://learnjavascript.online/)
 - **Full stack development**
 	 - [Full stack python](https://www.fullstackpython.com/)
 	 - [Full stack open](https://fullstackopen.com/)
@@ -37,13 +39,14 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 	 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) [Neural networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&ab_channel=3Blue1Brown)
 	 - [cs50ai](https://cs50.harvard.edu/ai/2020/)
 	 - [Python machine learning](https://pythonprogramming.net/)
-- **Algorithm practice**
+- **Practice**
 	 - [Hackerrank](https://www.hackerrank.com/dashboard)
 	 - [Cp algorithms](http://cp-algorithms.com/)
 	 - [Cses problemsets](https://cses.fi/problemset/)
 	 - [Project Euler](https://projecteuler.net/about)
 	 - [Code wars](https://www.codewars.com/)
 	 - [Datatähti](https://cses.fi/dt/list/) (fin)
+	 - [edabit](https://edabit.com/)
 - **Other Coding related resources**
 	 - [Makeareadme](https://www.makeareadme.com/)
 	 - [Choose a license](https://choosealicense.com/)
