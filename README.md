@@ -7,9 +7,9 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 
 ---
 - **Computer programming**
-	 - [cs50](https://cs50.harvard.edu/x/2020/)
+	 - [Cs50](https://cs50.harvard.edu/x/2020/)
 	 - [C# Yellow book](http://www.csharpcourse.com/)
-	 - [mooc 2020](https://ohjelmointi-20.mooc.fi/) (fin)
+	 - [Java mooc 2020](https://ohjelmointi-20.mooc.fi/) (fin)
 	 - [Solo learn](https://www.sololearn.com/)
 	 - [Practical introduction to Python book](https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf)
 	 - [Real python tutorials](https://realpython.com/)
@@ -24,10 +24,10 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 	 - [Web demystified](https://www.youtube.com/playlist?list=PLo3w8EB99pqLEopnunz-dOOBJ8t-Wgt2g)
 	 - [Mozilla web docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 	 - [Internet is hard](https://www.internetingishard.com/)
-	 - [The Odin project](https://theodinproject.com/paths)
-	 - [cs50web](https://cs50.harvard.edu/web/2020/)
-	 - [learn js](https://learnjavascript.online/)
+	 - [Cs50web](https://cs50.harvard.edu/web/2020/)
+	 - [Learn js](https://learnjavascript.online/)
 - **Full stack development**
+	 - [The Odin project](https://theodinproject.com/paths)
 	 - [Full stack python](https://www.fullstackpython.com/)
 	 - [Full stack open](https://fullstackopen.com/)
 	 - [App academy](https://open.appacademy.io/)
@@ -37,7 +37,7 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 - **Ai and machine learning**
 	 - [Elements of ai](https://www.elementsofai.com/)
 	 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) [Neural networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&ab_channel=3Blue1Brown)
-	 - [cs50ai](https://cs50.harvard.edu/ai/2020/)
+	 - [Cs50ai](https://cs50.harvard.edu/ai/2020/)
 	 - [Python machine learning](https://pythonprogramming.net/)
 - **Practice**
 	 - [Hackerrank](https://www.hackerrank.com/dashboard)
