@@ -23,6 +23,7 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 - **Web developement**
 	 - [Web demystified](https://www.youtube.com/playlist?list=PLo3w8EB99pqLEopnunz-dOOBJ8t-Wgt2g)
 	 - [Mozilla web docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+	 - [Web.dev](https://web.dev/)
 	 - [Internet is hard](https://www.internetingishard.com/)
 	 - [Cs50web](https://cs50.harvard.edu/web/2020/)
 	 - [Learn js](https://learnjavascript.online/)
