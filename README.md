@@ -15,6 +15,7 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 	 - [Real python tutorials](https://realpython.com/)
 	 - [The Hitchhiker’s Guide to python](https://docs.python-guide.org/)
 	 - [Learn js](https://learnjavascript.online/)
+	 - [Js.info](https://javascript.info/)
 - **Computer science and algorithms**
 	 - [Crash course computer science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 	 - [How to think like computer scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
