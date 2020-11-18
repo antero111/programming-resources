@@ -7,15 +7,20 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 
 ---
 - **Computer programming**
+- C/Python
 	 - [Cs50](https://cs50.harvard.edu/x/2020/)
-	 - [C# Yellow book](http://www.csharpcourse.com/)
-	 - [Java mooc 2020](https://ohjelmointi-20.mooc.fi/) (fin)
-	 - [Solo learn](https://www.sololearn.com/)
-	 - [Practical introduction to Python book](https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf)
+- Python
+	- [Practical introduction to Python book](https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf)
 	 - [Real python tutorials](https://realpython.com/)
 	 - [The Hitchhiker’s Guide to python](https://docs.python-guide.org/)
+- Java
+	 - [Java mooc 2020](https://ohjelmointi-20.mooc.fi/) (fin)
+- C#
+	 - [C# Yellow book](http://www.csharpcourse.com/)
+- Javascript
 	 - [Learn js](https://learnjavascript.online/)
 	 - [Js.info](https://javascript.info/)
+- [Solo learn](https://www.sololearn.com/)
 - **Computer science and algorithms**
 	 - [Crash course computer science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 	 - [How to think like computer scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
@@ -75,4 +80,3 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 	 - [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 	 - [Python django syllabus](https://www.reddit.com/r/learnprogramming/comments/i9vuhr/i_wrote_a_syllabus_for_learning_python_and_django/)
 	 - [Self taught cs curriculum](https://www.reddit.com/r/learnprogramming/comments/gsansp/my_55step_selftaught_cs_curriculum_updated/)
-	
