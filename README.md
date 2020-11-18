@@ -14,7 +14,7 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 	 - [Practical introduction to Python book](https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf)
 	 - [Real python tutorials](https://realpython.com/)
 	 - [The Hitchhiker’s Guide to python](https://docs.python-guide.org/)
-	 - [Uncle bob's clean code lessons](https://www.youtube.com/watch?v=7EmboKQH8lM&ab_channel=UnityCoin)
+	 - [Learn js](https://learnjavascript.online/)
 - **Computer science and algorithms**
 	 - [Crash course computer science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 	 - [How to think like computer scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
@@ -26,7 +26,6 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 	 - [Web.dev](https://web.dev/)
 	 - [Internet is hard](https://www.internetingishard.com/)
 	 - [Cs50web](https://cs50.harvard.edu/web/2020/)
-	 - [Learn js](https://learnjavascript.online/)
 - **Full stack development**
 	 - [The Odin project](https://theodinproject.com/paths)
 	 - [Full stack python](https://www.fullstackpython.com/)
@@ -62,6 +61,8 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 	 - [Computer science Lessons](https://www.youtube.com/c/ComputerScienceLessons)
 	 - [Fireship](https://www.youtube.com/c/AngularFirebase)
 	 - [Free code camp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- **Videos**
+	 - [Uncle bob's clean code lessons](https://www.youtube.com/watch?v=7EmboKQH8lM&ab_channel=UnityCoin)
 - **Reddit threads**
 	 - [How to learn write good code](https://www.reddit.com/r/learnprogramming/comments/iwf81z/how_to_learn_how_to_write_good_code_for_big/)
 	 - [How did you learn algorithms](https://www.reddit.com/r/learnprogramming/comments/iimqjw/self_learners_how_did_you_learn_algorithms/)
