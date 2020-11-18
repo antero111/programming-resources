@@ -7,20 +7,20 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 
 ---
 - **Computer programming**
-- C/Python
-	 - [Cs50](https://cs50.harvard.edu/x/2020/)
-- Python
-	- [Practical introduction to Python book](https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf)
-	 - [Real python tutorials](https://realpython.com/)
-	 - [The Hitchhiker’s Guide to python](https://docs.python-guide.org/)
-- Java
-	 - [Java mooc 2020](https://ohjelmointi-20.mooc.fi/) (fin)
-- C#
-	 - [C# Yellow book](http://www.csharpcourse.com/)
-- Javascript
-	 - [Learn js](https://learnjavascript.online/)
-	 - [Js.info](https://javascript.info/)
-- [Solo learn](https://www.sololearn.com/)
+	- C/Python
+		 - [Cs50](https://cs50.harvard.edu/x/2020/)
+	- Python
+		- [Practical introduction to Python book](https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf)
+		 - [Real python tutorials](https://realpython.com/)
+		 - [The Hitchhiker’s Guide to python](https://docs.python-guide.org/)
+	- Java
+		 - [Java mooc 2020](https://ohjelmointi-20.mooc.fi/) (fin)
+	- C#
+		 - [C# Yellow book](http://www.csharpcourse.com/)
+	- Javascript
+		 - [Learn js](https://learnjavascript.online/)
+		 - [Js.info](https://javascript.info/)
+	- [Solo learn](https://www.sololearn.com/)
 - **Computer science and algorithms**
 	 - [Crash course computer science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 	 - [How to think like computer scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
