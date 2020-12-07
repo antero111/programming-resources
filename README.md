@@ -80,3 +80,5 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 	 - [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 	 - [Python django syllabus](https://www.reddit.com/r/learnprogramming/comments/i9vuhr/i_wrote_a_syllabus_for_learning_python_and_django/)
 	 - [Self taught cs curriculum](https://www.reddit.com/r/learnprogramming/comments/gsansp/my_55step_selftaught_cs_curriculum_updated/)
+- **Rabbit hole to programming resources**
+	 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
