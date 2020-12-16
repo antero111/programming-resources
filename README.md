@@ -10,7 +10,7 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 	- C/Python
 		 - [Cs50](https://cs50.harvard.edu/x/2020/)
 	- Python
-		- [Practical introduction to Python book](https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf)
+		 - [Practical introduction to Python book](https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf)
 		 - [Real python tutorials](https://realpython.com/)
 		 - [The Hitchhiker’s Guide to python](https://docs.python-guide.org/)
 	- Java
@@ -52,7 +52,7 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 	 - [Project Euler](https://projecteuler.net/about)
 	 - [Code wars](https://www.codewars.com/)
 	 - [Datatähti](https://cses.fi/dt/list/) (fin)
-	 - [edabit](https://edabit.com/)
+	 - [Edabit](https://edabit.com/)
 - **Other coding related resources**
 	 - [Makeareadme](https://www.makeareadme.com/)
 	 - [Choose a license](https://choosealicense.com/)
@@ -66,7 +66,7 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 	 - [OneLoneCoder](https://www.youtube.com/c/javidx9)
 	 - [Computer science Lessons](https://www.youtube.com/c/ComputerScienceLessons)
 	 - [Fireship](https://www.youtube.com/c/AngularFirebase)
-	 - [Free code camp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+	 - [Freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - **Videos**
 	 - [Uncle bob's clean code lessons](https://www.youtube.com/watch?v=7EmboKQH8lM&ab_channel=UnityCoin)
 - **Reddit threads**
@@ -80,5 +80,6 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 	 - [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 	 - [Python django syllabus](https://www.reddit.com/r/learnprogramming/comments/i9vuhr/i_wrote_a_syllabus_for_learning_python_and_django/)
 	 - [Self taught cs curriculum](https://www.reddit.com/r/learnprogramming/comments/gsansp/my_55step_selftaught_cs_curriculum_updated/)
+	 - [Freecodecamp curriculum](https://www.freecodecamp.org/learn)
 - **Rabbit hole to programming resources**
 	 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
