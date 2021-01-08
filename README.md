@@ -8,7 +8,7 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 ---
 - **Computer programming**
 	- C/Python
-		 - [Cs50](https://cs50.harvard.edu/x/2020/)
+		 - [Cs50](https://cs50.harvard.edu/x/2021/)
 	- Python
 		 - [Practical introduction to Python book](https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf)
 		 - [Real python tutorials](https://realpython.com/)
