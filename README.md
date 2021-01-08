@@ -1,6 +1,6 @@
 ## Programming resources
 
-*A list of free coding resources .
+*List of free coding resources .
 All credits go to the original authors.*
 
 Resources mostly aimed for cs, web, ai and data science beginners.  
@@ -21,6 +21,7 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 		 - [Learn js](https://learnjavascript.online/)
 		 - [Js.info](https://javascript.info/)
 	- [Solo learn](https://www.sololearn.com/)
+	- [DEFA courses](https://www.helsinki.fi/fi/projektit/digital-education-for-all/kurssit) (fin)
 - **Computer science and algorithms**
 	 - [Crash course computer science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 	 - [How to think like computer scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
@@ -70,7 +71,7 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 - **Videos**
 	 - [Uncle bob's clean code lessons](https://www.youtube.com/watch?v=7EmboKQH8lM&ab_channel=UnityCoin)
 - **Reddit threads**
-	 - [How to learn write good code](https://www.reddit.com/r/learnprogramming/comments/iwf81z/how_to_learn_how_to_write_good_code_for_big/)
+	 - [How to learn to write good code](https://www.reddit.com/r/learnprogramming/comments/iwf81z/how_to_learn_how_to_write_good_code_for_big/)
 	 - [How did you learn algorithms](https://www.reddit.com/r/learnprogramming/comments/iimqjw/self_learners_how_did_you_learn_algorithms/)
 	 - [Build projects](https://www.reddit.com/r/learnprogramming/comments/i2c0ud/keep_being_told_to_build_projects_but_dont_know/)
 	 - [Starting a degree in cs](https://www.reddit.com/r/computerscience/comments/g6trzn/starting_a_degree_in_cs/)
