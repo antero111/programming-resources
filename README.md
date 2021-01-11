@@ -25,8 +25,9 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 - **Computer science and algorithms**
 	 - [Crash course computer science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 	 - [How to think like computer scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
+	 - [Cp algorithms](http://cp-algorithms.com/)
 	 - [Tietorakenteet ja algoritmit](https://www.cs.helsinki.fi/u/ahslaaks/tirakirja/) (fin)
-	 - [Cses algorithm course](https://cses.fi/alon20/list/) (fin)
+	 - [Cses algoritmit ongelmanratkaisussa](https://cses.fi/alon20/list/) (fin)
 - **Web developement**
 	 - [Web demystified](https://www.youtube.com/playlist?list=PLo3w8EB99pqLEopnunz-dOOBJ8t-Wgt2g)
 	 - [Mozilla web docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
@@ -48,19 +49,23 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 	 - [Python machine learning](https://pythonprogramming.net/)
 - **Practice**
 	 - [Hackerrank](https://www.hackerrank.com/dashboard)
-	 - [Cp algorithms](http://cp-algorithms.com/)
 	 - [Cses problemsets](https://cses.fi/problemset/)
 	 - [Project Euler](https://projecteuler.net/about)
 	 - [Code wars](https://www.codewars.com/)
 	 - [Datatähti](https://cses.fi/dt/list/) (fin)
 	 - [Edabit](https://edabit.com/)
 - **Other coding related resources**
-	 - [Makeareadme](https://www.makeareadme.com/)
-	 - [Choose a license](https://choosealicense.com/)
-	 - [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-	 - [Git book](https://git-scm.com/book/en/v2)
-	 - [Learn X in Y minutes](https://learnxinyminutes.com/)
-	 - [Rosetta code](http://rosettacode.org/wiki/Rosetta_Code)
+	- Launguages
+		- [Learn X in Y minutes](https://learnxinyminutes.com/)
+		- [Rosetta code](http://rosettacode.org/wiki/Rosetta_Code)
+	- Git and repositories
+		- [Git book](https://git-scm.com/book/en/v2)
+		- [Aosa git](https://aosabook.org/en/git.html)
+		- [Makeareadme](https://www.makeareadme.com/)
+		- [Choose a license](https://choosealicense.com/)
+		- [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)	
+	- "Advanced"
+		- [Aosa books](https://aosabook.org/en/index.html)
 	 - [Dashdash](https://dashdash.io/)
 	 - [100ProjectsOfCode](https://github.com/aceking007/100ProjectsOfCode)
 - **Youtubers**
@@ -78,9 +83,9 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 	 - [Solid design principles](https://www.reddit.com/r/learnprogramming/comments/cr3m01/solid_design_principles_for_everyone/)
 	 - [What do I need to know for web development](https://www.reddit.com/r/learnprogramming/comments/dlikxe/what_do_i_need_to_know_for_web_development/)
 - **Full study plans**
-	 - [coding-interview-university](https://github.com/jwasham/coding-interview-university)
+	 - [Coding-interview-university](https://github.com/jwasham/coding-interview-university)
 	 - [Python django syllabus](https://www.reddit.com/r/learnprogramming/comments/i9vuhr/i_wrote_a_syllabus_for_learning_python_and_django/)
 	 - [Self taught cs curriculum](https://www.reddit.com/r/learnprogramming/comments/gsansp/my_55step_selftaught_cs_curriculum_updated/)
 	 - [Freecodecamp curriculum](https://www.freecodecamp.org/learn)
 - **Rabbit hole to programming resources**
-	 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+	 - [Awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
