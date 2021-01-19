@@ -17,6 +17,9 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 		 - [Java mooc 2020](https://ohjelmointi-20.mooc.fi/) (fin)
 	- C#
 		 - [C# Yellow book](http://www.csharpcourse.com/)
+	- C++
+		 - [Starting out with C++ book](http://instructor.sdu.edu.kz/~bakhyt/CPP/suggested%20books/Starting%20out%20with%20C++.pdf)
+		 - [Linear cpp](https://github.com/jesyspa/linear-cpp)
 	- Javascript
 		 - [Learn js](https://learnjavascript.online/)
 		 - [Js.info](https://javascript.info/)
@@ -61,11 +64,13 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 	- Git and repositories
 		- [Git book](https://git-scm.com/book/en/v2)
 		- [Aosa git](https://aosabook.org/en/git.html)
+		- [Git flight rules](https://github.com/k88hudson/git-flight-rules)
 		- [Makeareadme](https://www.makeareadme.com/)
 		- [Choose a license](https://choosealicense.com/)
 		- [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)	
 	- "Advanced"
 		- [Aosa books](https://aosabook.org/en/index.html)
+		- [Hypermodern python](https://cjolowicz.github.io/posts/)
 	 - [Dashdash](https://dashdash.io/)
 	 - [100ProjectsOfCode](https://github.com/aceking007/100ProjectsOfCode)
 - **Youtubers**
