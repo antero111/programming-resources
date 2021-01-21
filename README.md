@@ -1,9 +1,7 @@
 ## Programming resources
 
-*List of free coding resources .
+*A list of free coding resources.
 All credits go to the original authors.*
-
-Resources mostly aimed for cs, web, ai and data science beginners.  
 
 ---
 - **Computer programming**
@@ -24,10 +22,12 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 		 - [Learn js](https://learnjavascript.online/)
 		 - [Js.info](https://javascript.info/)
 	- [Solo learn](https://www.sololearn.com/)
+	- [Learn X in Y minutes](https://learnxinyminutes.com/)
 	- [DEFA courses](https://www.helsinki.fi/fi/projektit/digital-education-for-all/kurssit) (fin)
-- **Computer science and algorithms**
+- **Computer science**
 	 - [Crash course computer science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 	 - [How to think like computer scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
+- **Algorithms**
 	 - [Cp algorithms](http://cp-algorithms.com/)
 	 - [Tietorakenteet ja algoritmit](https://www.cs.helsinki.fi/u/ahslaaks/tirakirja/) (fin)
 	 - [Cses algoritmit ongelmanratkaisussa](https://cses.fi/alon20/list/) (fin)
@@ -56,11 +56,9 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 	 - [Project Euler](https://projecteuler.net/about)
 	 - [Code wars](https://www.codewars.com/)
 	 - [Datatähti](https://cses.fi/dt/list/) (fin)
-	 - [Edabit](https://edabit.com/)
-- **Other coding related resources**
-	- Launguages
-		- [Learn X in Y minutes](https://learnxinyminutes.com/)
-		- [Rosetta code](http://rosettacode.org/wiki/Rosetta_Code)
+	 - [Rosetta code](http://rosettacode.org/wiki/Rosetta_Code)
+	 - [100ProjectsOfCode](https://github.com/aceking007/100ProjectsOfCode)
+- **Miscellaneous**
 	- Git and repositories
 		- [Git book](https://git-scm.com/book/en/v2)
 		- [Aosa git](https://aosabook.org/en/git.html)
@@ -68,11 +66,13 @@ Resources mostly aimed for cs, web, ai and data science beginners.
 		- [Makeareadme](https://www.makeareadme.com/)
 		- [Choose a license](https://choosealicense.com/)
 		- [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)	
-	- "Advanced"
+	- "Advanced programming"
 		- [Aosa books](https://aosabook.org/en/index.html)
 		- [Hypermodern python](https://cjolowicz.github.io/posts/)
-	 - [Dashdash](https://dashdash.io/)
-	 - [100ProjectsOfCode](https://github.com/aceking007/100ProjectsOfCode)
+		- [How to design programs](http://htdp.org/)
+		- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
+	 - Other
+	 	- [Dashdash](https://dashdash.io/)
 - **Youtubers**
 	 - [OneLoneCoder](https://www.youtube.com/c/javidx9)
 	 - [Computer science Lessons](https://www.youtube.com/c/ComputerScienceLessons)
