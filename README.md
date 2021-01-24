@@ -19,7 +19,7 @@ All credits go to the original authors.*
 		 - [Starting out with C++ book](http://instructor.sdu.edu.kz/~bakhyt/CPP/suggested%20books/Starting%20out%20with%20C++.pdf)
 		 - [Linear cpp](https://github.com/jesyspa/linear-cpp)
 	- Javascript
-		 - [Learn js](https://learnjavascript.online/)
+		 - [Eloquent javascript](https://eloquentjavascript.net/)
 		 - [Js.info](https://javascript.info/)
 	- [Solo learn](https://www.sololearn.com/)
 	- [Learn X in Y minutes](https://learnxinyminutes.com/)
