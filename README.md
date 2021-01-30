@@ -16,7 +16,6 @@ All credits go to the original authors.*
 	- C#
 		 - [C# Yellow book](http://www.csharpcourse.com/)
 	- C++
-		 - [Starting out with C++ book](http://instructor.sdu.edu.kz/~bakhyt/CPP/suggested%20books/Starting%20out%20with%20C++.pdf)
 		 - [Linear cpp](https://github.com/jesyspa/linear-cpp)
 	- Javascript
 		 - [Eloquent javascript](https://eloquentjavascript.net/)
