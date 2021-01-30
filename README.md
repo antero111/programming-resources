@@ -50,13 +50,16 @@ All credits go to the original authors.*
 	 - [Cs50ai](https://cs50.harvard.edu/ai/2020/)
 	 - [Python machine learning](https://pythonprogramming.net/)
 - **Practice**
-	 - [Hackerrank](https://www.hackerrank.com/dashboard)
-	 - [Cses problemsets](https://cses.fi/problemset/)
-	 - [Project Euler](https://projecteuler.net/about)
-	 - [Code wars](https://www.codewars.com/)
-	 - [Datatähti](https://cses.fi/dt/list/) (fin)
-	 - [Rosetta code](http://rosettacode.org/wiki/Rosetta_Code)
-	 - [100ProjectsOfCode](https://github.com/aceking007/100ProjectsOfCode)
+	- Algorithms and problems
+		 - [Hackerrank](https://www.hackerrank.com/dashboard)
+		 - [Cses problemsets](https://cses.fi/problemset/)
+		 - [Project Euler](https://projecteuler.net/about)
+		 - [Code wars](https://www.codewars.com/)
+		 - [Datatähti](https://cses.fi/dt/list/) (fin)
+		 - [Rosetta code](http://rosettacode.org/wiki/Rosetta_Code)
+	- Projects
+		 - [100ProjectsOfCode](https://github.com/aceking007/100ProjectsOfCode)
+		 - [Build your own x](https://github.com/danistefanovic/build-your-own-x)
 - **Miscellaneous**
 	- Git and repositories
 		- [Git book](https://git-scm.com/book/en/v2)
