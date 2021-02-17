@@ -63,7 +63,6 @@ All credits go to the original authors.*
 - **Miscellaneous**
 	- Git and repositories
 		- [Git book](https://git-scm.com/book/en/v2)
-		- [Aosa git](https://aosabook.org/en/git.html)
 		- [Git flight rules](https://github.com/k88hudson/git-flight-rules)
 		- [Makeareadme](https://www.makeareadme.com/)
 		- [Choose a license](https://choosealicense.com/)
