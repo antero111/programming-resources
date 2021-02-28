@@ -11,6 +11,7 @@ All credits go to the original authors.*
 		 - [Practical introduction to Python book](https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf)
 		 - [Real python tutorials](https://realpython.com/)
 		 - [The Hitchhiker’s Guide to python](https://docs.python-guide.org/)
+		 - [Learn by example python](https://learnbyexample.github.io/py_resources/preface.html)
 	- Java
 		 - [Java mooc 2020](https://ohjelmointi-20.mooc.fi/) (fin)
 	- C#
