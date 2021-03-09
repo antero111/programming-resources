@@ -12,6 +12,7 @@ All credits go to the original authors.*
 		 - [Real python tutorials](https://realpython.com/)
 		 - [The Hitchhiker’s Guide to python](https://docs.python-guide.org/)
 		 - [Learn by example python](https://learnbyexample.github.io/py_resources/preface.html)
+		 - [Calm code](https://calmcode.io/)
 	- Java
 		 - [Java mooc 2020](https://ohjelmointi-20.mooc.fi/) (fin)
 	- C#
